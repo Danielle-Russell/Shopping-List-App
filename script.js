@@ -14,8 +14,7 @@ function shoppingList (event) {
                 <span class="button-label">delete</span>
               </button>
             </div>
-          </li>
-          <li>`);
+          </li>`);
     
     $("#shopping-list-entry").val("");
               
